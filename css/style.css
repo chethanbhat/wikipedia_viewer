@@ -1,0 +1,158 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+	
+	
+	color: #fff;
+	text-decoration:none;
+	
+}
+
+a:hover {
+	
+	
+	color: #00ffff;
+	text-decoration:none;
+	
+}
+
+body {
+	
+	margin: 3%;
+	background-color: #004d66;
+	
+	
+}
+
+#search {
+	
+	
+	width:100%;
+	color: #fff;
+	
+	
+	
+	
+}
+
+#search h1 {
+	
+	font-family: 'Merriweather', serif;
+	
+	
+	font-size: 3em;
+
+}
+
+#search p {
+
+	font-family: 'Lato', sans-serif;
+	font-style:italic;
+	font-size: 1.6em;
+	
+}
+
+#mySearch{
+	
+	margin: auto;
+	font-family: 'Lato', sans-serif;
+	font-size: 1.6em;
+	color:#000;
+	height: 40px;
+	
+	
+}
+
+#submitBtn {
+
+background-color: #332200;	
+border: 1px solid #332200;
+color:#fff;	
+font-family: 'Lato', sans-serif;
+font-size: 14px;
+height: 40px;
+	
+}
+
+#rSearch {
+	
+	font-family: 'Lato', sans-serif;
+	font-size: 1.2em;
+	color:#000;
+	
+	
+}
+
+
+.randomSearch {
+	
+	margin: 3% auto;
+	
+}
+
+#results{
+	
+	margin: 3% auto;
+	width:100%;
+	color: #fff;
+	
+}
+
+
+#resLists {
+	
+	
+	margin: 2% auto;
+	background-color: #4d4d00;
+	padding: 1% 2%;
+	border:3px solid white;
+	
+}
+
+#resLists h3 {
+	
+	
+	font-family: 'Merriweather', serif;
+	
+}
+
+#resLists  p{
+	
+	
+	font-family: 'Lato', sans-serif;
+	font-style:italic;
+	font-size: 1.2em;
+	
+}
+
+
+#instructions{
+	
+	width:100%;
+	margin:10px;
+	color:#fff;
+	
+	
+}
+
+#instructions p{
+	
+	font-family: 'Merriweather', serif;
+	font-size: 1.2em;
+	
+	
+}
+
+
+.footer {
+  
+  margin: 15% auto;
+ color:#fed136; 
+width:100%;
+  font-size:1.2em;
+  font-family: "Times New Roman", Serif;
+  
+}
